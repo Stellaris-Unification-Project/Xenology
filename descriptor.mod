@@ -8,4 +8,4 @@ tags={
 }
 picture="XTER_1.1_New.png"
 remote_file_id="1323750659"
-supported_version="2.3.*"
+supported_version="3.2.2"
